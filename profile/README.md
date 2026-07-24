@@ -1,3 +1,4 @@
+<img width="1168" height="784" alt="ksFuV" src="https://github.com/user-attachments/assets/5cd288cf-1a8d-4316-8b9f-9eb2a1cb0292" />
 <img width="339" height="304" alt="Screenshot 2026-07-24 at 22 02 39" src="https://github.com/user-attachments/assets/0ecdeaa8-cc9e-4512-8bbe-6f6e19fca516" />
 # 🚀 Startup World
 
