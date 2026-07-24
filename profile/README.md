@@ -1,8 +1,9 @@
+<img width="339" height="304" alt="Screenshot 2026-07-24 at 22 02 39" src="https://github.com/user-attachments/assets/0ecdeaa8-cc9e-4512-8bbe-6f6e19fca516" />
 # 🚀 Startup World
 
 > Build. Launch. Scale. Explore the startup ecosystem like never before.
 
-![Startup World Banner](./docs/banner.png)
+![Startup World Banner](https://github.com/user-attachments/assets/0ecdeaa8-cc9e-4512-8bbe-6f6e19fca516)
 
 Startup World is an interactive 3D web experience inspired by immersive digital worlds like Coastal World. Instead of navigating a traditional website, players explore a living startup ecosystem filled with founders, investors, AI labs, launch pads, hidden easter eggs, and dozens of playable mini-games.
 
