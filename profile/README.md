@@ -1,8 +1,7 @@
+# 🚀 Startup World
+
 <img width="1168" height="784" alt="ksFuV" src="https://github.com/user-attachments/assets/5cd288cf-1a8d-4316-8b9f-9eb2a1cb0292" />
 
-
-
-# 🚀 Startup World
 
 > Build. Launch. Scale. Explore the startup ecosystem like never before.
 
