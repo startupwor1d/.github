@@ -11,7 +11,7 @@ Every building tells a story.
 Every quest teaches something.
 
 Every interaction mirrors a real part of building a startup.
-
+ 
 ---
 
 ## 🌍 The Vision
